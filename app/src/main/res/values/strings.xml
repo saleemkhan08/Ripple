@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ripple</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ripple_feeds">Ripples</string>
+    <string name="facebook_app_id">1187604057967030</string>
+    <string name="songList">Songs</string>
+    <string name="signing_in">Signing in ...</string>
+    <string name="logout">Logout</string>
+    <string name="playlist">Current Playlist</string>
+</resources>

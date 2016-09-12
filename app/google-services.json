@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "191945460492",
+    "firebase_url": "https://ripple-38e65.firebaseio.com",
+    "project_id": "ripple-38e65",
+    "storage_bucket": "ripple-38e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191945460492:android:eb26c71a93b2e477",
+        "android_client_info": {
+          "package_name": "co.thnki.ripple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191945460492-pp9s1gfsqv4iftqehrmk6n8aodhoarla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.thnki.ripple",
+            "certificate_hash": "2EA8C29CEBC4C749FC19C37B668C0DBA5D84A0EA"
+          }
+        },
+        {
+          "client_id": "191945460492-pqbk7b23s1iliv9n12cqelnsntvhs91e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHserqnYsGyAm8EGITAee3kVh8W0kRkXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191945460492-pqbk7b23s1iliv9n12cqelnsntvhs91e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
